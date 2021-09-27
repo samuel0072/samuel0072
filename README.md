@@ -1,8 +1,8 @@
 
 
 <h3>  &nbsp;About me </h3>
-- 🎓 &nbsp; Undergraduate  Computer Science student at <a href="https://ufal.br/">Universidade Federal de Alagoas(UFAL)</a>.
-- 🌱 &nbsp; Learning more about **Devops**.
+🎓 &nbsp; Undergraduate  Computer Science student at <a href="https://ufal.br/">Universidade Federal de Alagoas(UFAL)</a>
+
 
 <h3> :rocket: &nbsp;Skills </h3>
 
