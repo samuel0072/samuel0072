@@ -1,16 +1,52 @@
-### Hi there 👋
 
-<!--
-**samuel0072/samuel0072** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3>  &nbsp;About me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Undergraduate  Computer Science student at <a href="https://ufal.br/">Universidade Fedral de alagoas</a>.
+- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
+- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+
+<h3> :rocket: &nbsp;Skills </h3>
+
+**Aplicações e Dados**
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+
+**Utilities**
+
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
+
+**Development tools**
+
+  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+  ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+
+<br/>
+
+<a href="https://github.com/samuel0072">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel0072&theme=dracula&show_icons=true" />
+</a>
+
+
+<br/>
+
+<h3> :earth_americas: &nbsp;Where you can find me: </h3> 
+
+[![Linkedin: Samuel Lima](https://img.shields.io/badge/-samuel0072-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/samuel0072/)](https://www.linkedin.com/in/samuel0072/)
+[![Gmail Badge](https://img.shields.io/badge/-samuelima.00@outlook.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuelima.00@outlook.com)](mailto:samuelima.00@outlook.com)
+[![GitHub Samuel Lima]( https://img.shields.io/github/followers/samuel0072?label=follow&style=social)](https://github.com/samuel0072)
